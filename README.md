@@ -35,9 +35,9 @@ Running update with --no-dev does not mean require-dev is ignored, it just means
 ```
 
 Solution:
-Open [xampp_folder_path]/php/php.ini to edit.
-Search for ;extension=intl and remove the ;.
-Save the php.ini file and restart Apache.
+1. Open [xampp_folder_path]/php/php.ini to edit.
+2. Search for ;extension=intl and remove the ;.
+3. Save the php.ini file and restart Apache.
 
 # Install MPDF
 ```
