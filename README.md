@@ -38,6 +38,8 @@ Solution:
 1. Open [xampp_folder_path]/php/php.ini to edit.
 2. Search for ;extension=intl and remove the ;.
 3. Save the php.ini file and restart Apache.
+4. go to the htdocs folder and remove the current error project that have been made
+5. got to git bash and run the above command again
 
 # Install MPDF
 ```
