@@ -7,14 +7,14 @@ Memulai Aplikasi Codeigniter 4
 4. run command (mode install via composer)
 
 ```
-composer create-project codeigniter4/appstarter nama_project project-root
+$ composer create-project codeigniter4/appstarter nama_project project-root
 ```
 replace *nama_project* with the real project name
 
 or
 
 ```
-composer create-project codeigniter4/appstarter nama_project --no-dev
+$ composer create-project codeigniter4/appstarter nama_project --no-dev
 ```
 
 
